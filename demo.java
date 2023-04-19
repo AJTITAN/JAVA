@@ -7,7 +7,6 @@ interface myinterface{
 
 class box implements myinterface{
 
-    //class must implement/define set and get.
     private int l,w,h;
 
     //set must be public
